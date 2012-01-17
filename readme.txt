@@ -4,8 +4,8 @@ SphereQuest 1.5 was created as a final project for Computer Graphics
 (SFWR ENG 3GC3) at McMaster University in 2011.
 
 The original SphereQuest was created as a group project with Ben Kybartas
-(bkybartas@gmail.com) and Jason Costabile (constabile@gmail.com) in 2010. The
-original source code can be found in a Google Code repository:
+(bkybartas at gmail dot com) and Jason Costabile (constabile at gmail dot com)
+in 2010. The original source code can be found in a Google Code repository:
 http://code.google.com/p/spherequest/
 
 SphereQuest is a simple, quirky game in which you must roll your sphere through
